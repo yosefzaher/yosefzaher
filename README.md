@@ -44,9 +44,6 @@
 <span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">log</span><span class="pl-kos">(</span><span class="pl-kos">[</span><span class="pl-s">'🥚'</span><span class="pl-kos">,</span> <span class="pl-s">'🐣'</span><span class="pl-kos">,</span> <span class="pl-s">'🐥'</span><span class="pl-kos">,</span> <span class="pl-s">'🐔'</span><span class="pl-kos">]</span><span class="pl-kos">.</span><span class="pl-en">sort</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
 
 <span class="pl-c1">&gt;&gt;&gt;</span> <span class="pl-kos">[</span> <span class="pl-s">'🐔'</span><span class="pl-kos">,</span> <span class="pl-s">'🐣'</span><span class="pl-kos">,</span> <span class="pl-s">'🐥'</span><span class="pl-kos">,</span> <span class="pl-s">'🥚'</span> <span class="pl-kos">]</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
->>> [ '🐔', '🐣', '🐥', '🥚' ]" tabindex="0" role="button">
 
 
