@@ -13,7 +13,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CSE student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a CCSE student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="95px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
