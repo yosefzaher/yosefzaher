@@ -16,7 +16,7 @@
 - 👨‍💻 As a CCSE student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-<img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="200px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🛠 &nbsp;Tools and languages
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
