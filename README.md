@@ -19,9 +19,6 @@
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🛠 &nbsp;Tools and languages
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
