@@ -22,11 +22,13 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ### 🛠 &nbsp;Currently Studying
 ![C Programming](https://img.shields.io/badge/-C%20Programming-05122A?style=flat&logo=c)&nbsp;
+![Algorithm](https://img.shields.io/badge/Algorithm-YourAlgorithm-orange?style=flat&logo=c)
+![Data Structure](https://img.shields.io/badge/Data%20Structure-YourDataStructure-blue?style=flat&logo=c)
+
+
 
 
 
