@@ -25,8 +25,8 @@
 
 ### 🛠 &nbsp;Currently Studying
 ![C Programming](https://img.shields.io/badge/-C%20Programming-05122A?style=flat&logo=c)&nbsp;
-![Algorithms](https://img.shields.io/badge/Algorithm-gray?style=flat)
-![Data Structure](https://img.shields.io/badge/Data%20Structure-lightgrey?style=flat)
+![Algorithm](https://img.shields.io/badge/Algorithms-gray?style=flat)&nbsp;
+![Data Structure](https://img.shields.io/badge/Data%20Structures-lightgrey?style=flat)&nbsp;
 
 
 
