@@ -22,10 +22,16 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-3C3C3B?style=flat&logo=codeblocks&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
+
 
 ### 🛠 &nbsp;Currently Studying
 ![C Programming](https://img.shields.io/badge/-C%20Programming-05122A?style=flat&logo=c)&nbsp;
-![Algorithm](https://img.shields.io/badge/Algorithms-gray?style=flat)&nbsp;
+![Algorithm](https://img.shields.io/badge/Algorithm-001f3f?style=flat)
 ![Data Structure](https://img.shields.io/badge/Data%20Structure-001f3f?style=flat)
 
 
