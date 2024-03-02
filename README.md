@@ -50,7 +50,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yosefzaher&show_icons=true&locale=en&layout=compact&langs_count=6&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff&hide=Jupyter%20Notebook)](https://github.com/yosefzaher)
 
 Languages and Percentages:
-- Python: [![Python](https://img.shields.io/badge/Python-94.87%25-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/yosefzaher)
+- ![Python Logo](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white): [![Python](https://img.shields.io/badge/Python-94.87%25-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/yosefzaher)
 - C: [![C](https://img.shields.io/badge/C-96.56%25-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/yosefzaher)
 - C#: [![C#](https://img.shields.io/badge/C%23-64.34%25-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/yosefzaher)
 - HTML: [![HTML](https://img.shields.io/badge/HTML-12.67%25-blue?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/yosefzaher)
