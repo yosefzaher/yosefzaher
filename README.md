@@ -24,17 +24,17 @@
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ### 🛠 &nbsp;Tools and languages
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=for-the-badge&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-3C3C3B?style=flat&logo=codeblocks&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-3C3C3B?style=for-the-badge&logo=codeblocks&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=for-the-badge&logo=gnu-bash&logoColor=white)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/yosefzaher)
 ![Proteus](https://img.shields.io/badge/Proteus-009999?style=for-the-badge&logo=proteus&logoColor=white)
 
