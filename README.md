@@ -42,3 +42,16 @@
 ![C Programming](https://img.shields.io/badge/-C%20Programming-05122A?style=flat&logo=c)&nbsp;
 ![Algorithm](https://img.shields.io/badge/Algorithm-001f3f?style=flat&logo=algorithmia&logoColor=white)
 ![Data Structure](https://img.shields.io/badge/Data%20Structure-001f3f?style=flat&logo=datacamp&logoColor=white)
+
+
+<img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+
+
+
+
+
+
