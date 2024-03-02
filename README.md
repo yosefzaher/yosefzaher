@@ -30,6 +30,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
+
 
 
 
