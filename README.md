@@ -42,6 +42,8 @@
 ![C Programming](https://img.shields.io/badge/-C%20Programming-05122A?style=flat&logo=c)&nbsp;
 ![Algorithm](https://img.shields.io/badge/Algorithm-001f3f?style=flat&logo=algorithmia&logoColor=white)
 ![Data Structure](https://img.shields.io/badge/Data%20Structure-001f3f?style=flat&logo=datacamp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
@@ -56,6 +58,7 @@ Languages and Percentages:
 - [![HTML](https://img.shields.io/badge/HTML-12.67%25-blue?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/yosefzaher)
 - [![CSS](https://img.shields.io/badge/CSS-36%25-blue?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/yosefzaher)
 - [![Shell](https://img.shields.io/badge/Shell-54.66%25-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/yosefzaher)
+- [![C++](https://img.shields.io/badge/C++-15%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/yosefzaher)
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosefzaher&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff)](https://github.com/yosefzaher)
