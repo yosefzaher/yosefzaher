@@ -10,7 +10,9 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#FFD700&vCenter=true&size=22"></a>
-</p> 
+</p>
+<a href="https://www.linkedin.com/in/yosef-zaher/" style="background-image: url(https://i.imgur.com/yRpa1dQ.png); display: inline-block; width: 32px; height: 32px;"></a>
+
 
 - 🏢 I'm an Embedded Software Engineer 
 - 👨‍💻 As a CCSE student, I'm constantly learning and exploring new technologies to improve my skills.
