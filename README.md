@@ -47,7 +47,8 @@
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yosefzaher&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&hide_title=true&exclude_repo=your-excluded-repo" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yosefzaher&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&hide_title=true" height="192px"/></a>
+
 
 
 
