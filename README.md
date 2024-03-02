@@ -12,7 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn" width="40px">
+  <a href="https://www.linkedin.com/in/yosef-zaher/">
+    <img src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn" width="40px">
+  </a>
 </p>
 
 - 🏢 I'm an Embedded Software Engineer 
