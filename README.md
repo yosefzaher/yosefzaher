@@ -27,6 +27,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-3C3C3B?style=flat&logo=codeblocks&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![BASH](https://img.shields.io/badge/-BASH-05122A?style=flat&logo=gnu-bash)&nbsp;
+
 
 
 ### 🛠 &nbsp;Currently Studying
