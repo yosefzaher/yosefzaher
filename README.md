@@ -29,7 +29,8 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![BASH](https://img.shields.io/badge/-BASH-05122A?style=flat&logo=gnu-bash)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash)
+
 
 
 
