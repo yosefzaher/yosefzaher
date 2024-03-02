@@ -47,12 +47,12 @@
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-[![Python](https://img.shields.io/badge/Python-79.56%25-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-96.56%25-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C#](https://img.shields.io/badge/C%23-64.34%25-blue?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![HTML](https://img.shields.io/badge/HTML-12.67%25-blue?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-36%25-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Shell](https://img.shields.io/badge/Shell-54.66%25-blue?style=for-the-badge&logo=gnu-bash)](https://en.wikipedia.org/wiki/Shell_script)
+[![Python](https://img.shields.io/badge/Python-79.56%25-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-96.56%25-blue?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C#](https://img.shields.io/badge/C%23-64.34%25-blue?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![HTML](https://img.shields.io/badge/HTML-12.67%25-blue?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-36%25-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Shell](https://img.shields.io/badge/Shell-54.66%25-blue?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 
 
 
