@@ -47,7 +47,16 @@
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yosefzaher&show_icons=true&locale=en&layout=compact&langs_count=6&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff)](https://github.com/yosefzaher)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yosefzaher&show_icons=true&locale=en&layout=compact&langs_count=6&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff&hide=Jupyter%20Notebook)](https://github.com/yosefzaher)
+
+Languages and Percentages:
+- Python: 79.56%
+- C: 96.56%
+- C#: 64.34%
+- HTML: 12.67%
+- CSS: 36%
+- Shell: 54.66%
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosefzaher&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff)](https://github.com/yosefzaher)
 
