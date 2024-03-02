@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🏢 I'm an Embedded Software Engineer 
+- 🏢 I'm an Embedded Software Enthusiast 
 - 👨‍💻 As a CCSE student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
