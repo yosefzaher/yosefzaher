@@ -47,14 +47,9 @@
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-[![Python](https://img.shields.io/badge/Python-79.56%25-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-96.56%25-blue?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C#](https://img.shields.io/badge/C%23-64.34%25-blue?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![HTML](https://img.shields.io/badge/HTML-12.67%25-blue?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-36%25-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Shell](https://img.shields.io/badge/Shell-54.66%25-blue?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jackdomleo7&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackdomleo7&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff)
 
 
 
