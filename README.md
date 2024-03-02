@@ -47,7 +47,13 @@
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yosefzaher&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&hide_title=true" height="192px"/></a>
+[![Python](https://img.shields.io/badge/Python-79.56%25-blue)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-96.56%25-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C#](https://img.shields.io/badge/C%23-64.34%25-blue)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![HTML](https://img.shields.io/badge/HTML-12.67%25-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-36%25-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Shell](https://img.shields.io/badge/Shell-54.66%25-blue)](https://en.wikipedia.org/wiki/Shell_script)
+
 
 
 
