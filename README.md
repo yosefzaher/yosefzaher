@@ -41,11 +41,12 @@
 
 
 ### 🛠 &nbsp;Currently Studying
-![C Programming](https://img.shields.io/badge/-C%20Programming-05122A?style=flat&logo=c)&nbsp;
-![Algorithm](https://img.shields.io/badge/Algorithm-001f3f?style=flat&logo=algorithmia&logoColor=white)
-![Data Structure](https://img.shields.io/badge/Data%20Structure-001f3f?style=flat&logo=datacamp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![C Programming](https://img.shields.io/badge/-C%20Programming-05122A?style=for-the-badge&logo=c&logoColor=white)
+![Algorithm](https://img.shields.io/badge/Algorithm-001f3f?style=for-the-badge&logo=algorithmia&logoColor=white)
+![Data Structure](https://img.shields.io/badge/Data%20Structure-001f3f?style=for-the-badge&logo=datacamp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2EC866?style=for-the-badge&logo=codeforces&logoColor=white)
+
 
 
 
