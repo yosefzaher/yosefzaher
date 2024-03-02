@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -11,8 +10,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#FFD700&vCenter=true&size=22"></a>
 </p>
-<a href="https://www.linkedin.com/in/yosef-zaher/" style="background-image: url(https://i.imgur.com/yRpa1dQ.png); display: inline-block; width: 32px; height: 32px;"></a>
 
+<a href="https://www.linkedin.com/in/yosef-zaher/">
+  <img src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn" width="32px" style="vertical-align: middle;">
+  LinkedIn
+</a>
 
 - 🏢 I'm an Embedded Software Engineer 
 - 👨‍💻 As a CCSE student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -35,21 +37,7 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 
 
-
-
-
 ### 🛠 &nbsp;Currently Studying
 ![C Programming](https://img.shields.io/badge/-C%20Programming-05122A?style=flat&logo=c)&nbsp;
 ![Algorithm](https://img.shields.io/badge/Algorithm-001f3f?style=flat&logo=algorithmia&logoColor=white)
 ![Data Structure](https://img.shields.io/badge/Data%20Structure-001f3f?style=flat&logo=datacamp&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-
