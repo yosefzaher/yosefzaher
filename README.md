@@ -13,9 +13,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yosef-zaher/">
-[<img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+    <img align="center" alt="LinkedIn" width="40px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
   </a>
 </p>
+
 
 - 🏢 I'm an Embedded Software Enthusiast 
 - 👨‍💻 As a CCSE student, I'm constantly learning and exploring new technologies to improve my skills.
