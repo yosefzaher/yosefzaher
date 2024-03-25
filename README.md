@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yosef-zaher/">
-    <img src="https://i.imgur.com/yRpa1dQ.png" alt="LinkedIn" width="40px">
+[<img align="center" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
   </a>
 </p>
 
