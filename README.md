@@ -30,14 +30,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefzaher&show_icons=true&locale=en&layout=compact" alt="yosefzaher" /></p>
 
-
-
-
-<img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yosefzaher&show_icons=true&locale=en&layout=compact&langs_count=6&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff&hide=Jupyter%20Notebook)](https://github.com/yosefzaher)
-
 Languages and Percentages:
 - [![Python](https://img.shields.io/badge/Python-94.87%25-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/yosefzaher)
 - [![C](https://img.shields.io/badge/C-96.56%25-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/yosefzaher)
