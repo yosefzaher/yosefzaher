@@ -63,16 +63,17 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/> 
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask logo" width="40" height="40">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Flask_logo.svg" alt="Flask logo" width="40" height="40">
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/> 
   </a>
 </p>
+
 
 
 
