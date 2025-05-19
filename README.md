@@ -21,10 +21,11 @@
   </a>
 </p>
 
+### 👨‍💻 About Me
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CCSE student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🎓 I'm currently pursuing **Computer and Control Systems Engineering**
+- 💻 I'm passionate about **Software Development** and **Technology**
+- ⚡ Fun fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee ☕
 
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -74,12 +75,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/> 
   </a>
 </p>
-
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefzaher&show_icons=true&locale=en&layout=compact" alt="yosefzaher" /></p>
 
 
 ### 📊 GitHub Stats
