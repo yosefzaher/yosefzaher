@@ -91,6 +91,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosefzaher&layout=compact&theme=radical" alt="yosefzaher's top languages"/>
 </p>
 
+<a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
