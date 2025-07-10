@@ -28,6 +28,8 @@
 - ⚡ Fun fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee ☕
 
 <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
+
 
 ### 🛠 &nbsp;Tools and languages
 
@@ -91,7 +93,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosefzaher&layout=compact&theme=radical" alt="yosefzaher's top languages"/>
 </p>
 
-<a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
 
 <p align="center">
