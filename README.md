@@ -93,16 +93,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosefzaher&show_icons=true&theme=radical" alt="yosefzaher's GitHub stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefzaher&theme=radical" alt="yosefzaher's streak stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosefzaher&layout=compact&theme=radical" alt="yosefzaher's top languages"/>
-</p>
 
 ---
 
