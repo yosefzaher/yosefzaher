@@ -92,9 +92,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefzaher&theme=radical" alt="yosefzaher's streak stats"/>
-</p>
+</p> -->
 
 
 ---
