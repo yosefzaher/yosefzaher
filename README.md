@@ -1,25 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&text=Welcome%20to%20Yosef's%20World!&height=120&section=header&fontSize=35&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&text=Welcome%20to%20Yosef's%20World!&height=120&section=header&fontSize=35&animation=fadeIn)" />
 </p>
 
 <p align="center">
-  <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" style="max-width: 100%;"/>
-</p>
-
-<h3 align="center">
-  Welcome to Yosef Zaher's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FFD700&vCenter=true&size=22">
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)">
+    <img src="[https://readme-typing-svg.herokuapp.com/?lines=Cloud%20%26%20DevOps%20Engineer;Infrastructure%20as%20Code%20Enthusiast;Automation%20%26%20CI%2FCD%20Pipelines;Linux%20%26%20Containerization&font=Fira%20Code&center=true&width=500&height=45&color=00F0FF&vCenter=true&size=22](https://readme-typing-svg.herokuapp.com/?lines=Cloud%20%26%20DevOps%20Engineer;Infrastructure%20as%20Code%20Enthusiast;Automation%20%26%20CI%2FCD%20Pipelines;Linux%20%26%20Containerization&font=Fira%20Code&center=true&width=500&height=45&color=00F0FF&vCenter=true&size=22)">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yosef-zaher/">
-    <img alt="LinkedIn" width="40px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"/>
+  <a href="[https://www.linkedin.com/in/yosef-zaher/](https://www.linkedin.com/in/yosef-zaher/)" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email"/>
   </a>
 </p>
 
@@ -27,78 +22,56 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **Computer and Control Systems Engineering**.
-- 💻 I'm passionate about **Software Development** and **Technology**.
-- ⚡ Fun fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee ☕.
+- 🎓 **Education:** Computer and Control Systems Engineering @ Mansoura University
+- 🚀 **Role:** Cloud & DevOps Engineer
+- 🎯 **Focus:** Cloud Architecture, Infrastructure as Code (IaC), Automation & CI/CD Pipelines
+- ☕ **Fun Fact:** Coffee enthusiast — "Automate everything and drink good coffee."
 
+---
+
+### 🛠 Tech Stack & DevOps Toolkit
+
+<h4 align="left">☁️ Cloud & Infrastructure as Code</h4>
 <p align="left">
-  <img src="https://github.com/Govindv7555/Govindv7555/raw/main/49e76e0596857673c5c80c85b84394c1.gif" height="120px" alt="Coding animation"/>
+  <img src="[https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)" />
+</p>
+
+<h4 align="left">🐳 Containerization & Orchestration</h4>
+<p align="left">
+  <img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)" />
+</p>
+
+<h4 align="left">⚙️ CI/CD & Automation</h4>
+<p align="left">
+  <img src="[https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)" />
+</p>
+
+<h4 align="left">🐧 Operating Systems & Scripting</h4>
+<p align="left">
+  <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" />
+  <img src="[https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=yosefzaher&show_icons=true&theme=dark&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=yosefzaher&show_icons=true&theme=dark&hide_border=true&count_private=true)" />
+  <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yosefzaher&layout=compact&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefzaher&layout=compact&theme=dark&hide_border=true)" />
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" width="45%" style="max-width: 100%;"/>
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=yosefzaher&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=yosefzaher&theme=dark&hide_border=true)" alt="Streak Stats"/>
 </p>
-
----
-
-### 🛠 Tools and Languages
-
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefzaher&theme=radical" alt="yosefzaher's streak stats"/>
-</p> -->
-
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=100&section=footer)"/>
 </p>
